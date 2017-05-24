@@ -1,6 +1,6 @@
 <core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
 		controllerName="z_git_ui5_demo.git_ui5" xmlns:html="http://www.w3.org/1999/xhtml">
-	<Page title="Welcome to GitUi5">
+	<Page title="Welcome to GitUi5....">
 		<content>
 	
 		</content>
